@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 
 const Homepage = () => {
     const [index, setIndex] = useState(0);
@@ -14,13 +14,12 @@ const Homepage = () => {
         , []);
     
     return (
-        <Container>
-            <Row>
-                <Col>
-                    <h1>Hi, I'm Kurstie Ho</h1>
-                    <h2>Full Stack Developer</h2>
-                </Col>
-            </Row>
+        <Container
+            fluid
+            className="flex-column justify-content-center align-items-center">
+            
+            <h1 className="text-center">Welcome to my Portfolio</h1>
+            <h2 className="text-center">I am Kurstie</h2>
         </Container>
     );
 };
