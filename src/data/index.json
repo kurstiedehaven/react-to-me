@@ -1,0 +1,75 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, JavaScript"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Server-Side, Database management, API, Security"
+    },
+    {
+      "id": "3",
+      "src": "./img/monitor-1.png",
+      "title": "Database",
+      "description": "SQL, NoSQL, GraphQL Database management"
+    },
+    {
+      "id": "4",
+      "src": "./img/monitor-1.png",
+      "title": "Security",
+      "description": "Authentication, Authorization, Encryption"
+    },
+    {
+      "id": "5",
+      "src": "./img/monitor-1.png",
+      "title": "API",
+      "description": "RESTful"
+    },
+    {
+      "id": "6",
+      "src": "./img/monitor-1.png",
+      "title": "Coming Soon...",
+      "description": "Shhh... Trying to gain skills everyday!"
+    },
+    {
+      "id": "7",
+      "src": "./img/monitor-1.png",
+      "title": "Coming Soon...",
+      "description": "Shhh... Trying to gain skills everyday!"
+    },
+    {
+      "id": "8",
+      "src": "./img/monitor-1.png",
+      "title": "Coming Soon...",
+      "description": "Shhh... Trying to gain skills everyday!"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/weather.png",
+      "title": "API Weather Dashboard",
+      "description": "",
+      "link": "https://github.com/kurstiedehaven/stormtracker"
+    },
+    {
+      "id": "2",
+      "src": "./img/faceless.png",
+      "title": "App Dashboard",
+      "description": "",
+      "link": "https://github.com/kurstiedehaven/Faceless-Friends-App"
+    },
+    {
+      "id": "3",
+      "src": "./img/quiz.png",
+      "title": "Easy Rentn",
+      "description": "",
+      "link": "https://github.com/kurstiedehaven/quizmycodeknowledge"
+    }
+  ]
+}
